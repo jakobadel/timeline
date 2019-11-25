@@ -1,0 +1,34 @@
+-4000	-4000	Agriculture appears in Italy	
+-2000	-2000	Copper tools appear in Italy	
+-1800	-900	Bronze Age	Minoan and Mycenaean civilizations thrive in Greece
+-900	-700	Iron Age	Expansion of settlements, urbanization, and the rise of Italian city-states
+-753	-753	Founding of Rome	
+-753	-509	Regal Period	
+-800	-700	Greek Script Writing in Italy	The Greek alphabet was the first to preserve sound, any language could adapt to use it
+-700	-600	Etruscans begin to write	
+-700	-600	Roman marsh drained	The forum is built
+-600	-500	Proto-Latin Script	
+-600	-500	More civic building	
+-509	-509	Republic is formed	The son of the King Lucius Tarquinius Superbus rapes Lucretia, a Roman noblewoman, her husband Lucius Junius Brutus leads a revolt against Superbus and becomes one of the two first consuls.
+-450	-451	Struggle of the Orders	Discontent among plebeians leads to the creation of Rome's first law code, the Twelve Tables.  Issues such as debt, family law, inheritance, and land disputes are settled.  This was a key step in state formation.
+-396 	-396	Romans capture Veii	Inhabitants given citizenship
+-390	-396	Gallic sacking of Rome	Traumatic event for Rome, the Servian Wall is built in response
+-341	-338	Latin War	Rome dissolves former Latin defense pact, other cities incorporated with citizenship or municipia or become allies. 
+-343	-290	Three Samnite Wars	
+-400	-100	Rome establishes colonies	Establishes 53+ focusing on vulnerable areas.
+-280	-275	Pyrrhus of Epirus invades Italy	Rome wins and establishes hegemony over the Italian peninsula and most of Sicily.
+-264	-241	First Punic War	Tensions arise over Sicily and Rome sacks Punic city Agrigentum.  Rome builds up a fleet and destroys the Carthagenian fleet in 241.  Peace is then agreed and Rome comes into control of Sicily.  Carthage cannot afford to pay its mercenaries and Rome cuts deals with them to take over Corsica and Sardinia.
+-218	-201	Second Punic War	Caused by Carthagenian anger over Corsica and Sardinia and ultimately the Carthagenian seige of Roman city, Saguntum, in Spain.  
+-218	-218	Battle of Trebia	Just after Hannibal crosses the Alps defeats Gaius Sempronius Longus and annihilates the Romans.
+-217	-217	Battle of Trasimine	The Gauls join Hannibal and ambush and annihilate the Romans against Lake Trasimene.
+-217	-217	Romans appoint Dictator Quintus Fabius Maximus	After battle of Lake Trasimene, main strategy is to avoid battle.
+-216	-216	Battle of Cannae	Romans had approximately double the number of troops.  The Romans were encircled and slaughtered.  In response to this the Romans scapegoated and sacrifiecd the Vestal Virgins .
+-215	-215	Lex Oppia	Women not allowed to own excessive amounts of property
+-215	-205	First Macedonian War	Romans ally with Greeks and Pergamum against King Philip V of Macedon, ends in stalemate.
+-204	-204	Cult of Magna Mater	Romans bring statue of Patron deity of Troy from Phrygia to Rome to try to win favor.
+-202	-202	Battle of Zama	Scipio the Elder defeats Hannibal in Africa.
+-201	-201	Peace with Carthage	Carthage surrendered its fleet, paid a massive indemnity, was not allowed to raise an army, and lost most territory except for Carthage 
+-200	-196	Second Macedonian War	Pergamum requested help from Rome against Macedon.  Rome is victorious but Macedon maintains independence.
+-197	-197	Titus Flamininus wins at Cynocephalae	Declares freedom of Greek City-States
+-171	-168	Third Macedonian War	King Perseus defeated decisively at Pydna by Paullus who gets a triumph.  Macedon becomes a Roman province.
+-146	-146	Lucius Mummius sacks Corinth		
